@@ -8,19 +8,17 @@ Este proyecto de programación tiene como objetivo desarrollar un programa en Ja
 
 El programa a desarrollar incluirá las siguientes características principales:
 
-1. **Conexión a la base de datos**: El programa establecerá una conexión con una base de datos SQLite existente. Si la base de datos no existe, el programa la creará automáticamente.
+1. **Conexión a la base de datos**: El programa establecerá una conexión con una base de datos SQLite existente.
 
-2. **Creación de tablas**: El programa permitirá al usuario crear tablas en la base de datos. El usuario podrá especificar los nombres de las tablas, así como los campos y tipos de datos que desea incluir en cada tabla.
+2. **Inserción de datos**: El programa permitirá al usuario agregar registros a las tablas existentes. El usuario podrá proporcionar los valores para cada campo de la tabla.
 
-3. **Inserción de datos**: El programa permitirá al usuario agregar registros a las tablas existentes. El usuario podrá proporcionar los valores para cada campo de la tabla.
+3. **Consulta de datos**: El programa ofrecerá la capacidad de realizar consultas a la base de datos.
 
-4. **Consulta de datos**: El programa ofrecerá la capacidad de realizar consultas a la base de datos. El usuario podrá especificar los campos y criterios de búsqueda para recuperar los datos deseados.
+4. **Modificación de datos**: El programa permitirá al usuario actualizar registros existentes en la base de datos. El usuario podrá seleccionar el registro a modificar y proporcionar los nuevos valores para los campos correspondientes.
 
-5. **Modificación de datos**: El programa permitirá al usuario actualizar registros existentes en la base de datos. El usuario podrá seleccionar el registro a modificar y proporcionar los nuevos valores para los campos correspondientes.
+5. **Eliminación de datos**: El programa permitirá al usuario eliminar registros existentes de la base de datos. El usuario podrá especificar los criterios de eliminación para seleccionar los registros que se deben borrar.
 
-6. **Eliminación de datos**: El programa permitirá al usuario eliminar registros existentes de la base de datos. El usuario podrá especificar los criterios de eliminación para seleccionar los registros que se deben borrar.
-
-7. **Desconexión segura**: El programa incluirá una opción para que el usuario pueda desconectarse de la base de datos de manera segura. Esto cerrará la conexión con la base de datos y liberará los recursos utilizados.
+6. **Desconexión segura**: El programa incluirá una opción para que el usuario pueda desconectarse de la base de datos de manera segura. Esto cerrará la conexión con la base de datos y liberará los recursos utilizados.
 
 ## Requisitos del sistema
 
